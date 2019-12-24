@@ -1,2 +1,2 @@
 # Hellow-World
-this is my first Repos
+this is my first Hellow world prog
